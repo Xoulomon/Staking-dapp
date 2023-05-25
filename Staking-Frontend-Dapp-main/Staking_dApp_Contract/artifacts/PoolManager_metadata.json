@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Staking_dApp/PoolManager.sol": "PoolManager"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Staking_dApp/Math.sol": {
+			"keccak256": "0x03a29ae9391115dfb7f77574ebae7cc465c18df15f6932339240f4c533bdac2b",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://65f7b09ab3f25fa768acce4f3c7da29cf93a3960e11f90fd0e11c82bc98b22d7",
+				"dweb:/ipfs/QmUG8ixyW42gk53tSMnzgH1NkoUJLR263R8v3ecLKwHhMx"
+			]
+		},
+		"contracts/Staking_dApp/PoolManager.sol": {
+			"keccak256": "0xb1fe3f9acc8634e53b1fcdd6cf5b713ac4d1ad71b07540fc3a19a654e768ced5",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://33c75180760c863bffe0967f9cfe58cff49cbba83c32f08431f4e288b3ace91c",
+				"dweb:/ipfs/QmZoaQnhpsQB765dHvJkqNMoukjzr8h7NbMtAT76i9sRiX"
+			]
+		}
+	},
+	"version": 1
+}
